@@ -881,3 +881,6 @@ Mat MainWindow::masaike(Mat src){
  - 如果遇到转到槽失败错误，可以参考这篇文章：[Qt Creator添加/查找槽错误](https://blog.csdn.net/Q1302182594/article/details/50525992?utm_medium=distribute.pc_relevant_t0.none-task-blog-BlogCommendFromMachineLearnPai2-1.control&depth_1-utm_source=distribute.pc_relevant_t0.none-task-blog-BlogCommendFromMachineLearnPai2-1.control)。我自己写代码的时候经常莫名其妙出现这个错误，有时候文章里的方法可行，有时候又不行，有时候重启QT又好了，就很玄学= =
 
 - 如果有一些找不到函数的错误，可能是函数名与我不一样或是界面ui名称和我不一样，这个需要自己注意一下哦
+
+如果该软件给你带来了帮助，不妨给作者打赏一杯咖啡~
+
