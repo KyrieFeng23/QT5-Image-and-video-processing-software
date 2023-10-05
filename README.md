@@ -882,5 +882,6 @@ Mat MainWindow::masaike(Mat src){
 
 - 如果有一些找不到函数的错误，可能是函数名与我不一样或是界面ui名称和我不一样，这个需要自己注意一下哦
 
-如果该软件给你带来了帮助，不妨给作者打赏一杯咖啡~
+- 最后，如果该软件给你带来了帮助，不妨给作者打赏一杯咖啡~
+![](https://github.com/KyrieFeng23/QT5-Image-and-video-processing-software/blob/master/sponsor.jpg)
 
