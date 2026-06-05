@@ -11,8 +11,6 @@
 关于环境的安装我参考的是这篇文章：[win10系统Qt5.12配置OpenCV4.0.1库教程暨Qt，OpenCV，Cmake详细下载安装教程（史上最全！）](https://blog.csdn.net/weixin_42322013/article/details/88808230)，为我提供了非常大的帮助，非常感谢！！
 为了避免出现各种各样奇怪的错误，建议使用和我相同的版本（安装opencv的时候真的踩了很多很多坑）！
 - **关于很多朋友反映的视频无法打开的问题，一般就是OpenCV没配置好ffmpeg，可以重新编译一下OpenCV，或者装一个K-lite编码器试试**
-- 最后，如果该软件给你带来了帮助，不妨给作者打赏一杯咖啡~
-![](https://github.com/KyrieFeng23/QT5-Image-and-video-processing-software/blob/master/sponsor.jpg)
 
 # 二、成品展示
 话不多说，先看看成品。
